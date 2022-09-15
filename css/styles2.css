@@ -671,11 +671,15 @@ figure{
     background-color:#2196F3;
     cursor: pointer;
 }
+.footer-label{
+    position: relative;
+}
 
 .send{
-    position: absolute;
     width: 24px;
     height: 24px;
+    fill: #FFFFFF;
+    padding: 13px 24px;
 }
 
 .text-button{
