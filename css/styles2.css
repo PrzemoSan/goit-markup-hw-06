@@ -217,6 +217,10 @@ h1{
     margin: 0px 40px 10px 40px;
 }
 
+.modal-icon{
+    position: absolute;
+}
+
 .com-form-label{
     display: block;
     margin: 0px 40px 20px 40px;
@@ -676,10 +680,10 @@ figure{
 }
 
 .send{
+    position: absolute;
     width: 24px;
     height: 24px;
     fill: #FFFFFF;
-    padding: 13px 24px;
 }
 
 .text-button{
