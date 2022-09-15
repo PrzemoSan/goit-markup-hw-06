@@ -674,6 +674,8 @@ figure{
 
 .send{
     position: absolute;
+    width: 24px;
+    height: 24px;
 }
 
 .text-button{
