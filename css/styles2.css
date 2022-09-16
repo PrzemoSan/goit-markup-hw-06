@@ -241,8 +241,13 @@ h1{
 
 .rules-icon{
     position: absolute;
-    top: 35px;
-    left: 20px;
+    top: 5px;
+    left: 5px;
+}
+
+.rules-icon:focus,
+.rules-icon:active{
+    background-color: #2196F3;
 }
 
 .label-categ{
