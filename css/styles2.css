@@ -265,12 +265,15 @@ h1{
     resize: none;
 }
 
-.comment-style:hover,
+/* .comment-style:hover,
 .label-style:hover,
 .comment-style:active,
-.label-style:active{
+.label-style:active, */
+.com-form-label:focus-within,
+.form-label:focus-within{
     border: 1px solid #2196F3;
     border-radius: 4px;
+    fill: #2196F3;
 }
 
 .form-button{
@@ -473,7 +476,6 @@ figure{
     letter-spacing: 0.03;
     display: block;
     padding-top: 10px;
-    padding-bottom: 30px;
 }
 
 .our-social-list{
