@@ -675,6 +675,7 @@ figure{
     background-color:#2196F3;
     cursor: pointer;
 }
+
 .footer-label{
     position: relative;
 }
@@ -684,6 +685,7 @@ figure{
     width: 24px;
     height: 24px;
     fill: #FFFFFF;
+    padding-left:24px;
 }
 
 .text-button{
