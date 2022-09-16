@@ -220,7 +220,7 @@ h1{
 .modal-icon{
     position: absolute;
     top: 35px;
-    left: 18px;
+    left: 15px;
 }
 
 .com-form-label{
@@ -229,6 +229,7 @@ h1{
 }
 
 .rules-form-label{
+    position: relative;
     display: block;
     margin-top: 0px;
     margin-left: 40px;
@@ -236,6 +237,12 @@ h1{
     width: 397px;
     height: 24px;
     size: 14px;
+}
+
+.rules-icon{
+    position: absolute;
+    top: 35px;
+    left: 20px;
 }
 
 .label-categ{
