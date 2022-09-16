@@ -674,6 +674,8 @@ figure{
     border-radius: 4px;
     background-color:#2196F3;
     cursor: pointer;
+    justify-content: center;
+    text-align: center;
 }
 
 .footer-label{
