@@ -270,12 +270,6 @@ h1{
     resize: none;
 }
 
-.comment-style:focus,
-.label-style:focus,
-.modal-icon:focus
-.comment-style:active,
-.label-style:active,
-.modal-icon:active,
 .label-style:focus-within{
     border: 1px solid #2196F3;
     border-radius: 4px;
