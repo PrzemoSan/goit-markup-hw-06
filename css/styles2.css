@@ -239,10 +239,22 @@ h1{
     size: 14px;
 }
 
+.input-rules{
+    appearance: none;
+    position: relative;
+    margin-left: 20px;
+}
+
 .rules-icon{
+    border: 2px black solid;
     position: absolute;
-    top: 5px;
-    left: 5px;
+    top: 0px;
+    left: 0px;
+}
+
+.yes-icon{
+    width: 11px;
+    height: 8px;
 }
 
 .rules-icon:focus,
@@ -277,7 +289,7 @@ h1{
     fill: #2196F3;
     outline:none
 }
-
+ 
 .form-button{
     display: block;
     width: 200px;
