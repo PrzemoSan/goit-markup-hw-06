@@ -220,7 +220,6 @@ h1{
 .modal-icon{
     position: absolute;
     top: 35px;
-    z-index: 20;
     left: 18px;
 }
 
