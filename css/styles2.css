@@ -270,7 +270,8 @@ h1{
     resize: none;
 }
 
-.label-style:focus-within{
+.label-style:focus-within,
+.com-form-label:focus-within{
     border: 1px solid #2196F3;
     border-radius: 4px;
     fill: #2196F3;
