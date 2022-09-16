@@ -265,15 +265,14 @@ h1{
     resize: none;
 }
 
-/* .comment-style:hover,
-.label-style:hover,
+.comment-style:focus,
+.label-style:focus,
 .comment-style:active,
-.label-style:active, */
-.com-form-label:focus-within,
-.form-label:focus-within{
+.label-style:active{
     border: 1px solid #2196F3;
     border-radius: 4px;
     fill: #2196F3;
+    outline:none
 }
 
 .form-button{
