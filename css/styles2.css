@@ -243,8 +243,8 @@ h1{
 
 .input-rules{
     appearance: none;
-    position: absolute;
-    margin-left: 40px;
+    position: relative;
+    padding-left: 17px;
 }
 
 .rules-icon{
@@ -253,6 +253,7 @@ h1{
     top: 0px;
     left: 0px;
 }
+
 
 .yes-icon{
     width: 11px;
