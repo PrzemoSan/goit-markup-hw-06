@@ -34,6 +34,7 @@
     line-height: 1.38;
     color: #212121;
 }
+
 .menu{
     font-size: 14px;
 }
@@ -221,6 +222,7 @@ h1{
     position: absolute;
     top: 35px;
     left: 15px;
+    fill: #212121;
 }
 
 .com-form-label{
@@ -239,7 +241,7 @@ h1{
     size: 14px;
 }
 
-/* .input-rules{
+.input-rules{
     appearance: none;
     position: relative;
     margin-left: 20px;
@@ -255,11 +257,6 @@ h1{
 .yes-icon{
     width: 11px;
     height: 8px;
-} */
-
-.rules-icon:focus,
-.rules-icon:active{
-    background-color: #2196F3;
 }
 
 .label-categ{
@@ -272,6 +269,10 @@ h1{
     width: 406px;
     height: 40px;
     padding-left: 42px;
+}
+
+.label-style:focus{
+    fill:#2196F3
 }
 
 .comment-style{
