@@ -251,6 +251,8 @@ h1{
 }
 
 .input-rules{
+    -moz-appearance: none;
+    -webkit-appearance: none;
     appearance: none;
     position: relative;
     padding-left: 17px;
