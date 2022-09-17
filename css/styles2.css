@@ -244,7 +244,7 @@ h1{
 .input-rules{
     appearance: none;
     position: absolute;
-    margin-left: 20px;
+    margin-left: 40px;
 }
 
 .rules-icon{
@@ -271,7 +271,7 @@ h1{
     padding-left: 42px;
 }
 
-.label-style:focus + svg{
+.label-style:focus + .modal-icon{
     fill:#2196F3
 }
 
