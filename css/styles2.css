@@ -741,6 +741,8 @@ figure{
     font-weight: 700;
     letter-spacing: 0.06;
     line-height: 1.88;
+    justify-content: center;
+    text-align: center;
 }
 
 .second-menu{
