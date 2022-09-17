@@ -243,7 +243,7 @@ h1{
 
 .input-rules{
     appearance: none;
-    position: relative;
+    position: absolute;
     margin-left: 20px;
 }
 
@@ -271,7 +271,7 @@ h1{
     padding-left: 42px;
 }
 
-.label-style:focus{
+.label-style:focus + svg{
     fill:#2196F3
 }
 
