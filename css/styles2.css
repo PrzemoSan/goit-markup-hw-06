@@ -18,6 +18,10 @@
     margin: 0 auto;
 }
 
+.header-portfolio{
+    border-bottom: 1px #ECECEC solid;
+}
+
 .main-tittle {
     line-height: 1.38;
     text-decoration: none;
