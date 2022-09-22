@@ -265,7 +265,7 @@ h1{
     left: 0px;
 }
 
-.input-rules:checked + .rules-form-label{
+.rules-form-label:checked + .rules-icon{
     background-color: #2196F3;
     border: 1px #2196F3 solid;
     fill: #FFFFFF;
