@@ -713,6 +713,7 @@ figure{
 
 .submit-button{
     position: relative;
+    display: inline-flex;
     width: 200px;
     height: 50px;
     border: 1px solid rgba(255, 255, 255, 0.3);
@@ -722,6 +723,7 @@ figure{
     cursor: pointer;
     justify-content: center;
     text-align: center;
+    align-items: center;
 }
 
 .footer-label{
