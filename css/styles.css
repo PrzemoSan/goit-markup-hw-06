@@ -246,6 +246,11 @@ h1{
     cursor: pointer;
 }
 
+.rules-form-label{
+    position: absolute;
+    padding-left: 25px;
+}
+
 .rules-form-label a{
     color: #2196F3;
 }
@@ -265,11 +270,7 @@ h1{
     left: 0px;
 }
 
-.rules-icon:checked{
-    background-color: #2196F3;
-}
-
-.rules-form-label:checked + .rules-icon{
+.input-rules:checked + .rules-icon{
     background-color: #2196F3;
     border: 1px #2196F3 solid;
     fill: #FFFFFF;
